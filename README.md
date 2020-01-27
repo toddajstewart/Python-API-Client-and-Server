@@ -19,5 +19,3 @@ Usage Option 2:
 2) Open Postman or any other REST API client and send individual requests.
 3) Client application (not 'API_Test_Client.py') validates request syntax and forwards valid requests to the 'API_Test_Server.py' program. 
 4) 'API_Test_Server.py' returns HTTP status code to the client which displays returned HTTP status code, description and JSON data. 
-
-
